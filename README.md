@@ -20,7 +20,7 @@
 
   
 </div>
-<br>
+<br> <br>
 
 <br>
 <div align=center>
@@ -37,4 +37,13 @@
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 
+</div>
+
+<br> <br>
+
+<div align=center>
+	<br>
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ppupy1209)](https://solved.ac/ppupy1209)
 </div>
