@@ -58,13 +58,13 @@
 
 - Project Name: MoovDa 🎬 <br>
 - Description: A Movie Service with Search, Movie Details, and a Community Feature. <br>
-- What I leared: Querdsl, Load Balancer, Stream API, Documentation, etc. <br> <br>
+- What I Leared: Querdsl, Load Balancer, Stream API, Documentation, etc. <br> <br>
 
  <h3> codestates-seb/seb44_pre_031  </h3> 
 
 - Project Name: Stack Overflow clone coding 📝 <br>
 - Description: A clone of the developer knowledge-sharing platform Stack Overflow. <br>
-- What I leared: Development Process, Collaboration, Git Flow, AWS(EC2, RDS), etc. <br>
+- What I Leared: Development Process, Collaboration, Git Flow, AWS(EC2, RDS), etc. <br>
 
 
 
