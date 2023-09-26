@@ -2,7 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=200&section=header&text=Yeonwoo's%20Github&fontSize=90" />	
 </div>
 <div align=center>
-	<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Tech Stack 📚</h3>
+	<h3>&nbsp;&nbsp;&nbsp;&nbsp;📚 Tech Stack 📚</h3>
 
 </div>
 <div align="center">
@@ -24,7 +24,7 @@
 
 <br>
 <div align=center>
-	<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎨 Others 🎨</h3>
+	<h3>&nbsp;&nbsp;&nbsp;&nbsp;🎨 Others 🎨</h3>
 </div>
 <div align=center>
   	<a href="https://heathered-creek-b2a.notion.site/Backend-Developer-d2ab5916eb4f4240a5aa95f010aa0e06?pvs=4">
@@ -41,7 +41,7 @@
 
 
 <div align=center>
-	<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Baekjoon </h3>
+	<h3>&nbsp;&nbsp;&nbsp;&nbsp; Baekjoon </h3>
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ppupy1209)](https://solved.ac/ppupy1209)
@@ -50,7 +50,7 @@
 <br> <br>
 
 <div align=center>
-	<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📌 Pinned 📌</h3> </div> <br>
+	<h3>&nbsp;&nbsp;&nbsp;&nbsp; 📌 Pinned 📌</h3> </div> <br>
 
  <h3> codestates-seb/seb44_main_020  </h3> 
 
