@@ -68,7 +68,7 @@
 
  <h3> QnA_study </h3> 
 
-- Project Name: QnA Toy Project 📝 <br>
+- Project Name: QnA Toy Project 🧩 <br>
 - Description: A small-scale toy project for learning purposes. <br>
 - What I Leared: Optimization, Fetch Join, OSIV, etc. <br>
 
