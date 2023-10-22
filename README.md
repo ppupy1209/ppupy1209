@@ -60,11 +60,11 @@
 - Description: A Movie Service with Search, Movie Details, and a Community Feature. <br>
 - What I Leared: Querdsl, Load Balancer, Stream API, Documentation, etc. <br> <br>
 
- <h3> QnA_study </h3> 
+ <h3> toy_study </h3> 
 
-- Project Name: QnA toy project 🧩 <br>
+- Project Name: toy project 🧩 <br>
 - Description: A small-scale toy project for learning purposes. <br>
-- What I Leared: Optimization, Fetch Join, OSIV, etc. <br><br>
+- What I Leared: Optimization, Fetch Join, OSIV, Mockito, Redis etc. <br><br>
 
  <h3> codestates-seb/seb44_pre_031  </h3> 
 
