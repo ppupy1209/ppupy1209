@@ -8,7 +8,7 @@
 
   <br>
 
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://heathered-creek-b2a.notion.site/Portfoli-367de7b714c281f39f9ffd819bc67cfb?pvs=74)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://heathered-creek-b2a.notion.site/Yeonwoo-s-Notion-d2ab5916eb4f4240a5aa95f010aa0e06?pvs=74)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ppupy1209@naver.com)
 </div>
 
