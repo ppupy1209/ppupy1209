@@ -1,29 +1,26 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:14B8A6,100:F59E0B&height=160&section=header" width="100%"/>
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:14B8A6,100:F59E0B&height=160&section=header)
 
-<div align="center">
-  <h1>김연우</h1>
-  <p><b>Software Engineer</b> </p>
+# 김연우
 
-  <br>
+**Software Engineer**
 
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://heathered-creek-b2a.notion.site/Yeonwoo-s-Notion-d2ab5916eb4f4240a5aa95f010aa0e06?pvs=74)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yeonwoo.dev-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://yeonwoo.dev)
+[![ChipThrone](https://img.shields.io/badge/ChipThrone-chipthrone.com-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chipthrone.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ppupy1209@naver.com)
-</div>
 
-<br>
+## Products
 
+| Product | Description |
+| :--- | :--- |
+| **[yeonwoo.dev](https://yeonwoo.dev)** | Portfolio — 개인 포트폴리오 |
+| **[chipthrone.com](https://chipthrone.com)** | 국장 반도체 시총 1위 |
 
 ## Career
 
 | Period | Company | Role |
-|:---:|:---:|:---:|
+| ----------------- | ------------- | ----------------- |
 | 2024.01 ~ Present | **피플앤드테크놀러지** | Backend Developer |
 | 2019.03 ~ 2023.02 | **충북대학교** | 정보통신공학부 졸업 |
-
-<br>
-
 
 ## Tech Stack
 
@@ -44,9 +41,7 @@
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
 ![Amazon RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
 
+**AI**
 
-
-
-
-
-
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
