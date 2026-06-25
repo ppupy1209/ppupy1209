@@ -7,6 +7,10 @@
 **Software Engineer**
 
 **Email** · ppupy1209@naver.com
+<br/> 
+
+**Portfolio** · [yeonwoo.dev](https://yeonwoo.dev)
+
 
 </div>
 
@@ -16,7 +20,6 @@
 
 | Product | Description |
 | :--- | :--- |
-| **[yeonwoo.dev](https://yeonwoo.dev)** | 백엔드 개발 프로젝트와 성능 최적화 경험을 정리한 개인 포트폴리오 |
 | **[chipthrone.com](https://chipthrone.com)** | 삼성전자 vs SK하이닉스 실시간 시총 대결 — 국장 반도체 시총 1위를 실시간으로 가리는 사이트 |
 
 <br/>
